@@ -1,0 +1,6 @@
+{
+  "name": "Prime Time",
+  "description": "SaaS premium de controle de jornada corporativa, banco de horas e gestão inteligente de ponto físico e digital.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
